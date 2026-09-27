@@ -1,6 +1,6 @@
 # subtend
 
-**AI tooling for construction, built in Rust.**
+**Intelligent tooling for construction, built in Rust.**
 
 ---
 
@@ -16,7 +16,7 @@ That is the intent here: tools that sit beneath the work rather than in front of
 
 ### What we work on
 
-AI-assisted tooling for the built environment — the design, planning and delivery of physical things. Some of it is public, some of it isn't yet.
+Intelligent tooling for the built environment — the design, planning and delivery of physical things. Some of it is public, some of it isn't yet.
 
 Recurring themes across the repos:
 
